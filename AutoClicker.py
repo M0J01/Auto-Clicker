@@ -1,3 +1,5 @@
+# This is the Raspi version
+
 from pymouse import PyMouse
 import time
 import math
